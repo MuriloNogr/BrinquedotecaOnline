@@ -10,7 +10,7 @@ O **BrinquedoTecaOnline** foi implementado e o deploy da aplicação foi realiza
 
 Ao utilizar o Azure App Service, foi possível automatizar grande parte do processo de deploy, integrando facilmente com o repositório de código, garantindo que novas atualizações possam ser aplicadas de maneira eficiente. Além disso, o Azure App Service oferece recursos como balanceamento de carga, escalabilidade automática e monitoramento detalhado, assegurando que a aplicação possa atender à demanda com alta disponibilidade e desempenho.
 
-- **Site funcional**: [https://murilonogr.github.io/brinquedos](https://murilonogr.github.io/brinquedos)
+- **Site funcional**: https://murilonogr.github.io/BrinquedotecaOnlineFrontend
 - **API**: [https://brinquedotecaonline.fly.dev/api/brinquedos](https://brinquedotecaonline.fly.dev/api/brinquedos)
 - **Repositório do Frontend**: https://github.com/MuriloNogr/BrinquedotecaOnlineFrontend 
 
